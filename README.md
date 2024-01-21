@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @chickenwing27
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning programming languages
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on ...
+- 👋 Hi, I’m Antara Kolhatakar
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning React, Android Application Development, Python and Machine Learning.
+- 📫 You can reach me on ask271103@gmail.com
 
 <!---
 chickenwing27/chickenwing27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
