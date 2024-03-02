@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Antara Kolhatakar
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning React, Android Application Development, Python and Machine Learning.
+- 🌱 I’m currently learning React.js, Flutter, Android Developement and Python
 - 📫 You can reach me on ask271103@gmail.com
 
 <!---
